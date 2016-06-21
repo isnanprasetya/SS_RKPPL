@@ -23,7 +23,7 @@ public class NilaiArray {
 	nilai[4] = 3;
         
 	for( i=0; i<5; i++) {
-            //System.out.println("Nilai["+i+"] = "+nilai[i]);		
+            System.out.println("Nilai["+i+"] = "+nilai[i]);		
 	}
     }   
 }
